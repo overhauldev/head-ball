@@ -1,0 +1,10 @@
+{
+  "FolderOrderSettings":[],
+  "ResourceOrderSettings":[
+    {"name":"ground","order":1,"path":"sprites/ground/ground.yy",},
+    {"name":"RedHead","order":1,"path":"sprites/RedHead/RedHead.yy",},
+    {"name":"RedFootRightObj","order":2,"path":"objects/RedFootRightObj/RedFootRightObj.yy",},
+    {"name":"GoalLeft","order":2,"path":"sprites/GoalLeft/GoalLeft.yy",},
+    {"name":"clouds","order":2,"path":"sprites/clouds/clouds.yy",},
+  ],
+}
